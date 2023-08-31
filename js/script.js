@@ -1,6 +1,3 @@
-/**
- * @author Sarthak Jain <sarthak240498@gmail.com>
- */
 (function ($) {
   "use strict";
   $(".sakura-falling").sakura("start", {
